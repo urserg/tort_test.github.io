@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/tort_test.github.io/static/css/main.3b402dae.chunk.css",
+    "main.js": "/tort_test.github.io/static/js/main.2ea2ad72.chunk.js",
+    "main.js.map": "/tort_test.github.io/static/js/main.2ea2ad72.chunk.js.map",
+    "runtime-main.js": "/tort_test.github.io/static/js/runtime-main.f16a2ae3.js",
+    "runtime-main.js.map": "/tort_test.github.io/static/js/runtime-main.f16a2ae3.js.map",
+    "static/js/2.864f3bb4.chunk.js": "/tort_test.github.io/static/js/2.864f3bb4.chunk.js",
+    "static/js/2.864f3bb4.chunk.js.map": "/tort_test.github.io/static/js/2.864f3bb4.chunk.js.map",
+    "index.html": "/tort_test.github.io/index.html",
+    "precache-manifest.fc4e17d3db9d7d115a89470ae8c14462.js": "/tort_test.github.io/precache-manifest.fc4e17d3db9d7d115a89470ae8c14462.js",
+    "service-worker.js": "/tort_test.github.io/service-worker.js",
+    "static/css/main.3b402dae.chunk.css.map": "/tort_test.github.io/static/css/main.3b402dae.chunk.css.map",
+    "static/js/2.864f3bb4.chunk.js.LICENSE.txt": "/tort_test.github.io/static/js/2.864f3bb4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tort_test.github.io/static/media/Raleway-Regular.2d4cd872.ttf",
+    "static/media/Raleway-Regular.woff": "/tort_test.github.io/static/media/Raleway-Regular.7e6eb475.woff",
+    "static/media/Recepies.svg": "/tort_test.github.io/static/media/Recepies.03492a95.svg",
+    "static/media/calendar_left.svg": "/tort_test.github.io/static/media/calendar_left.7e684c66.svg",
+    "static/media/calendar_top_mob.svg": "/tort_test.github.io/static/media/calendar_top_mob.4baaee01.svg",
+    "static/media/clock.svg": "/tort_test.github.io/static/media/clock.e2eff902.svg",
+    "static/media/clock1.svg": "/tort_test.github.io/static/media/clock1.07c1ee97.svg",
+    "static/media/ingredients_left.svg": "/tort_test.github.io/static/media/ingredients_left.88f21b64.svg",
+    "static/media/instagram_small.svg": "/tort_test.github.io/static/media/instagram_small.eedd0c22.svg",
+    "static/media/instrument1.svg": "/tort_test.github.io/static/media/instrument1.4e1ceba0.svg",
+    "static/media/logo.svg": "/tort_test.github.io/static/media/logo.1c266021.svg",
+    "static/media/pasrtynet.svg": "/tort_test.github.io/static/media/pasrtynet.9c3cf66a.svg",
+    "static/media/person.svg": "/tort_test.github.io/static/media/person.cb555601.svg",
+    "static/media/phone_small.svg": "/tort_test.github.io/static/media/phone_small.da9ac001.svg",
+    "static/media/signin.svg": "/tort_test.github.io/static/media/signin.b35059bd.svg",
+    "static/media/sing_in_mobile.svg": "/tort_test.github.io/static/media/sing_in_mobile.9d67bb76.svg",
+    "static/media/tort_item_img.png": "/tort_test.github.io/static/media/tort_item_img.a5df07ce.png",
+    "static/media/truck.svg": "/tort_test.github.io/static/media/truck.b5752a67.svg",
+    "static/media/whatsapp_small.svg": "/tort_test.github.io/static/media/whatsapp_small.18927908.svg",
+    "static/media/works.svg": "/tort_test.github.io/static/media/works.1758ddef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f16a2ae3.js",
+    "static/js/2.864f3bb4.chunk.js",
+    "static/css/main.3b402dae.chunk.css",
+    "static/js/main.2ea2ad72.chunk.js"
+  ]
+}
