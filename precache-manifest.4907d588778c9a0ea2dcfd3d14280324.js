@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2685978aca8e945aeb67e95f57407319",
+    "revision": "e45ec94b23b165f7e1f5f5fbb6c93733",
     "url": "/tort_test.github.io/index.html"
   },
   {
-    "revision": "404b4f1e79bfdfc81e40",
+    "revision": "baaffc314e60441f08aa",
     "url": "/tort_test.github.io/static/css/main.3b402dae.chunk.css"
   },
   {
-    "revision": "6e5dc6e5888bfac19c97",
-    "url": "/tort_test.github.io/static/js/2.f3121eff.chunk.js"
+    "revision": "2c9e52b21617a816178c",
+    "url": "/tort_test.github.io/static/js/2.a405528f.chunk.js"
   },
   {
     "revision": "e25800ec0f990f7a13021008bb3d131c",
-    "url": "/tort_test.github.io/static/js/2.f3121eff.chunk.js.LICENSE.txt"
+    "url": "/tort_test.github.io/static/js/2.a405528f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "404b4f1e79bfdfc81e40",
-    "url": "/tort_test.github.io/static/js/main.bb8a1516.chunk.js"
+    "revision": "baaffc314e60441f08aa",
+    "url": "/tort_test.github.io/static/js/main.0305d95e.chunk.js"
   },
   {
     "revision": "9c6fb35d70cc7c18aadc",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4baaee01cc78fefb9dc99965f6cc2d21",
     "url": "/tort_test.github.io/static/media/calendar_top_mob.4baaee01.svg"
+  },
+  {
+    "revision": "099189a298a5832169d02013020da9bb",
+    "url": "/tort_test.github.io/static/media/client_phone.099189a2.svg"
   },
   {
     "revision": "e2eff902525f897db997da92fffad3a0",
@@ -96,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tort_test.github.io/static/media/truck.b5752a67.svg"
   },
   {
-    "revision": "18927908bf062e1f919e368931fb7f06",
-    "url": "/tort_test.github.io/static/media/whatsapp_small.18927908.svg"
+    "revision": "2cdf7d526fb990fa3ee50ac06b14c99d",
+    "url": "/tort_test.github.io/static/media/whatsapp_small.2cdf7d52.svg"
   },
   {
     "revision": "1758ddef3e976ec6083d3bb6f5771902",
