@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f535d307ab4597c86ac08035faa5793",
+    "revision": "d0f1a8e3269c0c6e649f418e7d4b5ec9",
     "url": "/tort_test.github.io/index.html"
   },
   {
-    "revision": "58cf4da2f4106e657de1",
+    "revision": "f1cb5c8213957b1be312",
     "url": "/tort_test.github.io/static/css/main.0c8bf1db.chunk.css"
   },
   {
-    "revision": "199aaf7a0e470de1f763",
-    "url": "/tort_test.github.io/static/js/2.de3b66b7.chunk.js"
+    "revision": "7961d1a7b0bf24bcd7d0",
+    "url": "/tort_test.github.io/static/js/2.1a75cfd0.chunk.js"
   },
   {
     "revision": "e25800ec0f990f7a13021008bb3d131c",
-    "url": "/tort_test.github.io/static/js/2.de3b66b7.chunk.js.LICENSE.txt"
+    "url": "/tort_test.github.io/static/js/2.1a75cfd0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58cf4da2f4106e657de1",
-    "url": "/tort_test.github.io/static/js/main.1d5e88a9.chunk.js"
+    "revision": "f1cb5c8213957b1be312",
+    "url": "/tort_test.github.io/static/js/main.d9bec606.chunk.js"
   },
   {
     "revision": "9c6fb35d70cc7c18aadc",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "03492a956f396ce06cc0750ad5d0242d",
     "url": "/tort_test.github.io/static/media/Recepies.03492a95.svg"
+  },
+  {
+    "revision": "c6da0ab9a6c430f42f5b27d7b03970ae",
+    "url": "/tort_test.github.io/static/media/bаsket.c6da0ab9.svg"
   },
   {
     "revision": "7e684c663d1a7aee37c57974f6784688",
