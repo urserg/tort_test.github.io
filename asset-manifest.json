@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tort_test.github.io/static/css/main.0c8bf1db.chunk.css",
-    "main.js": "/tort_test.github.io/static/js/main.f553d411.chunk.js",
-    "main.js.map": "/tort_test.github.io/static/js/main.f553d411.chunk.js.map",
+    "main.css": "/tort_test.github.io/static/css/main.06b6e2c4.chunk.css",
+    "main.js": "/tort_test.github.io/static/js/main.9eaa2347.chunk.js",
+    "main.js.map": "/tort_test.github.io/static/js/main.9eaa2347.chunk.js.map",
     "runtime-main.js": "/tort_test.github.io/static/js/runtime-main.f16a2ae3.js",
     "runtime-main.js.map": "/tort_test.github.io/static/js/runtime-main.f16a2ae3.js.map",
-    "static/js/2.e4d51756.chunk.js": "/tort_test.github.io/static/js/2.e4d51756.chunk.js",
-    "static/js/2.e4d51756.chunk.js.map": "/tort_test.github.io/static/js/2.e4d51756.chunk.js.map",
+    "static/js/2.566b90a1.chunk.js": "/tort_test.github.io/static/js/2.566b90a1.chunk.js",
+    "static/js/2.566b90a1.chunk.js.map": "/tort_test.github.io/static/js/2.566b90a1.chunk.js.map",
     "index.html": "/tort_test.github.io/index.html",
-    "precache-manifest.f6076a7e7f505b22f038f3219a29c5ea.js": "/tort_test.github.io/precache-manifest.f6076a7e7f505b22f038f3219a29c5ea.js",
+    "precache-manifest.cee6ec75fc94f10eeb679544e4a42c7f.js": "/tort_test.github.io/precache-manifest.cee6ec75fc94f10eeb679544e4a42c7f.js",
     "service-worker.js": "/tort_test.github.io/service-worker.js",
-    "static/css/main.0c8bf1db.chunk.css.map": "/tort_test.github.io/static/css/main.0c8bf1db.chunk.css.map",
-    "static/js/2.e4d51756.chunk.js.LICENSE.txt": "/tort_test.github.io/static/js/2.e4d51756.chunk.js.LICENSE.txt",
+    "static/css/main.06b6e2c4.chunk.css.map": "/tort_test.github.io/static/css/main.06b6e2c4.chunk.css.map",
+    "static/js/2.566b90a1.chunk.js.LICENSE.txt": "/tort_test.github.io/static/js/2.566b90a1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/tort_test.github.io/static/media/Raleway-Regular.2d4cd872.ttf",
     "static/media/Raleway-Regular.woff": "/tort_test.github.io/static/media/Raleway-Regular.7e6eb475.woff",
     "static/media/Recepies.svg": "/tort_test.github.io/static/media/Recepies.03492a95.svg",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f16a2ae3.js",
-    "static/js/2.e4d51756.chunk.js",
-    "static/css/main.0c8bf1db.chunk.css",
-    "static/js/main.f553d411.chunk.js"
+    "static/js/2.566b90a1.chunk.js",
+    "static/css/main.06b6e2c4.chunk.css",
+    "static/js/main.9eaa2347.chunk.js"
   ]
 }
