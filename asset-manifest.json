@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/tort_test.github.io/static/css/main.06b6e2c4.chunk.css",
-    "main.js": "/tort_test.github.io/static/js/main.0af7c16f.chunk.js",
-    "main.js.map": "/tort_test.github.io/static/js/main.0af7c16f.chunk.js.map",
+    "main.js": "/tort_test.github.io/static/js/main.7a08b917.chunk.js",
+    "main.js.map": "/tort_test.github.io/static/js/main.7a08b917.chunk.js.map",
     "runtime-main.js": "/tort_test.github.io/static/js/runtime-main.f16a2ae3.js",
     "runtime-main.js.map": "/tort_test.github.io/static/js/runtime-main.f16a2ae3.js.map",
-    "static/js/2.d7a6ecd4.chunk.js": "/tort_test.github.io/static/js/2.d7a6ecd4.chunk.js",
-    "static/js/2.d7a6ecd4.chunk.js.map": "/tort_test.github.io/static/js/2.d7a6ecd4.chunk.js.map",
+    "static/js/2.f8c38dc3.chunk.js": "/tort_test.github.io/static/js/2.f8c38dc3.chunk.js",
+    "static/js/2.f8c38dc3.chunk.js.map": "/tort_test.github.io/static/js/2.f8c38dc3.chunk.js.map",
     "index.html": "/tort_test.github.io/index.html",
-    "precache-manifest.656c52f5cf0d451a1256f70dcdefe77a.js": "/tort_test.github.io/precache-manifest.656c52f5cf0d451a1256f70dcdefe77a.js",
+    "precache-manifest.76a86f3f37a065d9c2f911760b38ce83.js": "/tort_test.github.io/precache-manifest.76a86f3f37a065d9c2f911760b38ce83.js",
     "service-worker.js": "/tort_test.github.io/service-worker.js",
     "static/css/main.06b6e2c4.chunk.css.map": "/tort_test.github.io/static/css/main.06b6e2c4.chunk.css.map",
-    "static/js/2.d7a6ecd4.chunk.js.LICENSE.txt": "/tort_test.github.io/static/js/2.d7a6ecd4.chunk.js.LICENSE.txt",
+    "static/js/2.f8c38dc3.chunk.js.LICENSE.txt": "/tort_test.github.io/static/js/2.f8c38dc3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/tort_test.github.io/static/media/Raleway-Regular.2d4cd872.ttf",
     "static/media/Raleway-Regular.woff": "/tort_test.github.io/static/media/Raleway-Regular.7e6eb475.woff",
     "static/media/Recepies.svg": "/tort_test.github.io/static/media/Recepies.03492a95.svg",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f16a2ae3.js",
-    "static/js/2.d7a6ecd4.chunk.js",
+    "static/js/2.f8c38dc3.chunk.js",
     "static/css/main.06b6e2c4.chunk.css",
-    "static/js/main.0af7c16f.chunk.js"
+    "static/js/main.7a08b917.chunk.js"
   ]
 }
