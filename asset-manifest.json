@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tort_test.github.io/static/css/main.06b6e2c4.chunk.css",
-    "main.js": "/tort_test.github.io/static/js/main.1810e3f2.chunk.js",
-    "main.js.map": "/tort_test.github.io/static/js/main.1810e3f2.chunk.js.map",
-    "runtime-main.js": "/tort_test.github.io/static/js/runtime-main.f16a2ae3.js",
-    "runtime-main.js.map": "/tort_test.github.io/static/js/runtime-main.f16a2ae3.js.map",
-    "static/js/2.34124e5d.chunk.js": "/tort_test.github.io/static/js/2.34124e5d.chunk.js",
-    "static/js/2.34124e5d.chunk.js.map": "/tort_test.github.io/static/js/2.34124e5d.chunk.js.map",
+    "main.css": "/tort_test.github.io/static/css/main.45adf59f.chunk.css",
+    "main.js": "/tort_test.github.io/static/js/main.537b5f59.chunk.js",
+    "main.js.map": "/tort_test.github.io/static/js/main.537b5f59.chunk.js.map",
+    "runtime-main.js": "/tort_test.github.io/static/js/runtime-main.d0bcb27f.js",
+    "runtime-main.js.map": "/tort_test.github.io/static/js/runtime-main.d0bcb27f.js.map",
+    "static/js/2.2fd37edf.chunk.js": "/tort_test.github.io/static/js/2.2fd37edf.chunk.js",
+    "static/js/2.2fd37edf.chunk.js.map": "/tort_test.github.io/static/js/2.2fd37edf.chunk.js.map",
     "index.html": "/tort_test.github.io/index.html",
-    "precache-manifest.3f91f58a58eac149136a14166052582b.js": "/tort_test.github.io/precache-manifest.3f91f58a58eac149136a14166052582b.js",
+    "precache-manifest.43aa1ba24154e675c85a6febe3f2ddda.js": "/tort_test.github.io/precache-manifest.43aa1ba24154e675c85a6febe3f2ddda.js",
     "service-worker.js": "/tort_test.github.io/service-worker.js",
-    "static/css/main.06b6e2c4.chunk.css.map": "/tort_test.github.io/static/css/main.06b6e2c4.chunk.css.map",
-    "static/js/2.34124e5d.chunk.js.LICENSE.txt": "/tort_test.github.io/static/js/2.34124e5d.chunk.js.LICENSE.txt",
+    "static/css/main.45adf59f.chunk.css.map": "/tort_test.github.io/static/css/main.45adf59f.chunk.css.map",
+    "static/js/2.2fd37edf.chunk.js.LICENSE.txt": "/tort_test.github.io/static/js/2.2fd37edf.chunk.js.LICENSE.txt",
     "static/media/index.css": "/tort_test.github.io/static/media/Raleway-Regular.2d4cd872.ttf",
     "static/media/Raleway-Regular.woff": "/tort_test.github.io/static/media/Raleway-Regular.7e6eb475.woff",
     "static/media/Recepies.svg": "/tort_test.github.io/static/media/Recepies.03492a95.svg",
@@ -35,9 +35,9 @@
     "static/media/works.svg": "/tort_test.github.io/static/media/works.1758ddef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f16a2ae3.js",
-    "static/js/2.34124e5d.chunk.js",
-    "static/css/main.06b6e2c4.chunk.css",
-    "static/js/main.1810e3f2.chunk.js"
+    "static/js/runtime-main.d0bcb27f.js",
+    "static/js/2.2fd37edf.chunk.js",
+    "static/css/main.45adf59f.chunk.css",
+    "static/js/main.537b5f59.chunk.js"
   ]
 }
